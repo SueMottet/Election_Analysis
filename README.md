@@ -9,11 +9,11 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election
 
-##Resources
+## Resources
 - Data Source: election_reslts.csv
 - Software: Python 3.6.1, Visual Studio Cod, 1.38.1
 
-##Summary
+## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election
 - The candidates were:
