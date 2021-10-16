@@ -55,14 +55,8 @@ The Election audit analysis project include three main delivlerables:
 ## Election Audit Summary
 These election audit data analysis components were designed with reusability and expandability in mind and can continue to be leveraged to perform the same or similar analysis by the Colorado Board of Elections. Reusing and augmenting these data analysis components could save the Board both time and future resources.
 
-###Proposed Election Audit Analysis Reuses and Expansions:
+### Proposed Election Audit Analysis Reuses and Expansions:
 Here are several options for modification and reuse for additional election auditing needs:
 1. There are 64 counties in Colorado and this election audit analysis was performed for a single congressional election and includied only three of the Colorado couunties. Expanding the election audit analysis to include different couunties and combinations of counties for different elections in Colorado could be done fairly easily by including additional county data or different county data in the same or a similar election_results.csv files and then rerunning the code against the new file and providing the resulting written analysis with the new analysis types in mind.
 2.Since elections are reoccuring, this election audit analysis could also be performed for future or past elections by including the addional these elections in the same or a similar election_results.csv files
 3. If data for multiple elections was include in the same or a similar election_results.csv, the code could be augmented to include multiple election or election over election analysis calcuations. If would be easy to add reading a second file for another election or to add a election year or orht election identifer to group results on.
-
-###Possible next steps
-which leads to why I aam the right person for the job
-
-
- 
