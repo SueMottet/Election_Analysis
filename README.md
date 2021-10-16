@@ -1,4 +1,4 @@
-# Election Audit Analysis - Colorado Boaod Of Elections 
+# Election Audit Analysis - Colorado Board Of Elections 
 
 ## Project Overview
 This project is to perform data analysis for a Colorado Board of Elections employee. The Colorado Board of Election data analysis project includes the following tasks for an election audit of a recent local congressional election.
