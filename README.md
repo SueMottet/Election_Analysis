@@ -46,7 +46,7 @@ The Election audit analysis project includes three main deliverables:
 
   ![Election Audit Command Line Output image](/Resources/results_printed_terminal.png)
 
-2. The winning candidate results and county election results are saved to the election_analysis.txt file included in the Resource folder in the repository as shown here:
+2. The winning candidate results and county election results are saved to the election_results.txt file included in the Resource folder in the repository as shown here:
 
   ![Election Audit Text File image](/Resources/results_output_textfile.png)
 
