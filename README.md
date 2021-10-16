@@ -40,25 +40,25 @@ The analysis of the election shows that:
 - The winner of the elections was:
   - Diane DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-### Election Audit Key Delivables:
-The Election audit analysis project include three main delivlerables:
-1. The winning candidate results and county election results print to the command line using the python code included in the repository file PyPollChallenge as shown here:
+### Election Audit Key Deliverables:
+The Election audit analysis project includes three main deliverables:
+1. The winning candidate results and county election results print to the command line using the python code included in the repository file PyPollChallenge.py as shown here:
 
   ![Election Audit Command Line Output image](/Resources/results_printed_terminal.png)
 
-2. The winning candidate results and county election results are saved to the election_results.txt file included in the Resource folder in repository as shown here:
+2. The winning candidate results and county election results are saved to the election_results.txt file included in the Resource folder in the repository as shown here:
 
   ![Election Audit Text File image](/Resources/results_output_textfile.png)
 
-3. The written analysis of this Election Audit Analysis work included in this README.
+3. The written analysis of this congressional election audit analysis work is included in this README.
 
 ## Election Audit Summary
-These election audit data analysis components were designed with reusability and expandability in mind and can continue to be leveraged to perform the same or similar analysis by the Colorado Board of Elections. Reusing and augmenting these data analysis components could save the Board both time and future resources.
+The election audit data analysis components built for this project were designed with reusability and expandability in mind and can continue to be leveraged to perform the same or similar analysis by the Colorado Board of Elections. Reusing and augmenting these data analysis components could save the Board both time and future resources.
 
 ### Proposed Election Audit Analysis Reuses and Expansions:
 Here are several options for modification and reuse for additional election auditing needs:
-1. There are 64 counties in Colorado and this election audit analysis was performed for a single congressional election and includied only three of the Colorado couunties. Expanding the election audit analysis to include elections around different counties and combinations of counties for different elections in Colorado could be done fairly easily by including additional county data or different county data in the same or a similar election_results.csv files and then rerunning the code against the new file and providing the resulting written analysis with the new analysis types in mind.
+1. There are 64 counties in Colorado and this election audit analysis was performed for a single congressional election and included only three of the Colorado counties. Expanding the election audit analysis to include elections around different counties and combinations of counties for different elections in Colorado could be done fairly easily by including additional county data or different county data in the same or a similar election_results.csv files and then rerunning the code against the new file(s) and providing the additional resulting written analysis with the new analysis types in mind.
 
-2. Since elections are reoccuring, this election audit analysis could also be performed for future or past elections by running the analysis on data for these additonal elections provided in the same or a similar election_results.csv file format.
+2. Since elections are reoccurring, this election audit analysis could also be performed for future or past elections by running the analysis on data for these additional elections provided in the same or a similar election_results.csv file format.
 
-3. If data for multiple elections was included in the same or a similar election_results.csv, the code could be augmented to include multiple election or election over election analysis calcuations. It would be possible to augment the code to perform reading a second file for another election or to add code for the addition of an election year or orther election identifer to group results on.
+3. If data for multiple elections was included in the same or a similar election_results.csv, the code could be augmented to include multiple election or election over election analysis calculations. It would be possible to augment the code to perform reading a second file for second election or to add code for the addition of an election year or another election identifier to group election results on.
