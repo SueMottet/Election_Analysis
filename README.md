@@ -42,11 +42,14 @@ The analysis of the election shows that:
 
 ### Election Audit Key Delivables:
 The Election audit analysis project include three main delivlerables:
-1. The winning candidate results and county election results print to the command line using the python code included in the repository file PyPollChallenge.
+1. The winning candidate results and county election results print to the command line using the python code included in the repository file PyPollChallenge as shown here:
 
   ![Election Audit Command Line Output image](/Resources/results_printed_terminal.png)
 
-3. The winning candidate results and county election results are saved to the election_results.txt file included in the Resource folder in repository
-4. Written analysis of the Election Audit
+3. The winning candidate results and county election results are saved to the election_results.txt file included in the Resource folder in repository as shown here:
+
+  ![Election Audit Text File image](/Resources/results_output_textfile.png)
+
+5. Written analysis of the Election Audit
 ## Election Audit Summary
 A
