@@ -1,6 +1,6 @@
 # Election Audit Analysis - Colorado Board Of Elections 
 
-## Project Overview
+## Election Audit Overview
 This project is to perform data analysis for a Colorado Board of Elections employee. The Colorado Board of Election data analysis project includes the following tasks for an election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -13,12 +13,12 @@ This project is to perform data analysis for a Colorado Board of Elections emplo
 8. Calculate the percentage of votes each candidate won.
 9. Determine the winner of the election
 
-## Resources
+### Resources
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
-The analysis of the election show that:
+## Election Audit Results
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election
 - The counties voting were:
   - Jefferson
@@ -40,10 +40,10 @@ The analysis of the election show that:
 - The winner of the elections was:
   - Diane DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Anlysis Project Overview
+### Election Audit Key Delivables:
 The Election audit analysis project include three main delivlerables:
 1. The winning candidate results and county election results print to the command line using the python code included in the repository file PyPollChallenge
 2. The winning candidate results and county election results are saved to the election_results.txt file included in the Resource folder in repository
 3. Written analysis of the Election Audit
-## Challenge Summary
+## Election Audit Summary
 A
