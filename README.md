@@ -69,3 +69,7 @@ Here are several options for modification and reuse for additional election audi
 * GitHub documentation on SSH https://help.github.com/en/articles/connecting-to-github-with-ssh
 * VS Code https://code.visualstudio.com/docs/introvideos/basics
 * Python data types https://docs.python.org/3.7/library/stdtypes.html#numeric-types-int-float-complex
+* Python functions list https://docs.python.org/3.7/library/functions.html
+* Python dictionary keys https://docs.python.org/3.7/faq/design.html#why-must-dictionary-keys-be-immutable
+* Python view objects https://docs.python.org/3.7/library/stdtypes.html#dictionary-view-objects
+* Python comparison operators https://docs.python.org/3.7/library/stdtypes.html#comparisons
