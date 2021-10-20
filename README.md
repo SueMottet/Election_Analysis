@@ -62,3 +62,10 @@ Here are several options for modification and reuse for additional election audi
 2. Since elections are reoccurring, this election audit analysis could also be performed for future or past elections by running the analysis on data for these additional elections provided in the same or a similar election_results.csv file format.
 
 3. If data for multiple elections was included in the same or a similar election_results.csv, the code could be augmented to include multiple election or election over election analysis calculations. It would be possible to augment the code to perform reading a second file for a second election or to add code for the addition of an election year or another election identifier to group election results on.
+
+### References
+* Download Git Bash https://git-scm.com/downloads
+* Python install instructions https://courses.bootcampspot.com/courses/811/pages/3-dot-1-2-install-python?module_item_id=300461#python-for-windows
+* GitHub documentation on SSH https://help.github.com/en/articles/connecting-to-github-with-ssh
+* VS Code https://code.visualstudio.com/docs/introvideos/basics
+* Python data types https://docs.python.org/3.7/library/stdtypes.html#numeric-types-int-float-complex
