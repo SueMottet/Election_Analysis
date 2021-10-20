@@ -73,3 +73,9 @@ Here are several options for modification and reuse for additional election audi
 * Python dictionary keys https://docs.python.org/3.7/faq/design.html#why-must-dictionary-keys-be-immutable
 * Python view objects https://docs.python.org/3.7/library/stdtypes.html#dictionary-view-objects
 * Python comparison operators https://docs.python.org/3.7/library/stdtypes.html#comparisons
+* Python formatting f-string literals https://www.python.org/dev/peps/pep-0498/
+* ASCII https://ascii.cl/
+* Unicode https://www.rapidtables.com/code/text/unicode-characters.html
+* Python file and directory access https://docs.python.org/3.7/library/os.path.html
+* Python next() method https://docs.python.org/3.7/library/csv.html#reader-objects
+* Git Hub Markdown https://help.github.com/en/articles/basic-writing-and-formatting-syntax
